@@ -43,7 +43,7 @@ def process_all_files(knowledge_base_dir, name_mapping):
 
 if __name__ == "__main__":
     try:
-        with open('terms_map.json') as f:
+        with open('../terms_map.json') as f:
             name_mapping = json.load(f)
         process_all_files('knowledge_base', name_mapping)
         print(f"Загружено {len(name_mapping)} записей для замены")
