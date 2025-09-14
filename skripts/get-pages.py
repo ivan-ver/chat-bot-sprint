@@ -120,6 +120,6 @@ if __name__ == "__main__":
         result = save_page_as_text(
             base_url="https://starwars.fandom.com/wiki/",
             title = title,
-            output_dir='task-2/knowledge_base/')
+            output_dir='knowledge_base/')
         if result:
             print(f"Успешно обработано: {os.path.basename(result)}\n")
