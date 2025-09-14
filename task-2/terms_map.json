@@ -1,0 +1,280 @@
+{
+  "Darth_Sidious": {
+    "old_names": [
+      "Darth Sidious",
+      "Sheev Palpatine",
+      "The Emperor",
+      "Sidious"
+    ],
+    "new_name": "Mr. Shadow"
+  },
+  "Landonis_Balthazar_Calrissian": {
+    "old_names": [
+      "Lando Calrissian",
+      "Landonis Balthazar Calrissian",
+      "Lando"
+    ],
+    "new_name": "Captain Smooth"
+  },
+  "Obi-Wan_Kenobi": {
+    "old_names": [
+      "Obi-Wan Kenobi",
+      "Ben Kenobi",
+      "Obi-Wan"
+    ],
+    "new_name": "Master Wise"
+  },
+  "Chewbacca": {
+    "old_names": [
+      "Chewbacca",
+      "Chewie",
+      "Chewbacca the Wookiee"
+    ],
+    "new_name": "Big Fuzzy"
+  },
+  "Rael_Averross": {
+    "old_names": [
+      "Rael Averross",
+      "Jedi Master Averross"
+    ],
+    "new_name": "Lord Rust"
+  },
+  "Qui-Gon_Jinn": {
+    "old_names": [
+      "Qui-Gon Jinn",
+      "Qui-Gon"
+    ],
+    "new_name": "Master Serene"
+  },
+  "Yoda": {
+    "old_names": [
+      "Yoda",
+      "Master Yoda",
+      "Grand Master Yoda"
+    ],
+    "new_name": "Ancient Green"
+  },
+  "Dooku": {
+    "old_names": [
+      "Dooku",
+      "Count Dooku",
+      "Darth Tyranus"
+    ],
+    "new_name": "Count Noble"
+  },
+  "Cin_Drallig": {
+    "old_names": [
+      "Cin Drallig",
+      "Lightsaber Instructor Drallig"
+    ],
+    "new_name": "Professor Blade"
+  },
+  "Mace_Windu": {
+    "old_names": [
+      "Mace Windu",
+      "Master Windu",
+      "Windu"
+    ],
+    "new_name": "Master Purple"
+  },
+  "Ki-Adi-Mundi": {
+    "old_names": [
+      "Ki-Adi-Mundi",
+      "Master Mundi",
+      "Mundi"
+    ],
+    "new_name": "Scholar Point"
+  },
+  "Reva_Sevander": {
+    "old_names": [
+      "Reva Sevander",
+      "Third Sister",
+      "Reva"
+    ],
+    "new_name": "Sister Hunt"
+  },
+  "Seventh_Sister": {
+    "old_names": [
+      "Seventh Sister",
+      "The Seventh Sister"
+    ],
+    "new_name": "Lady Seven"
+  },
+  "Savage_Opress": {
+    "old_names": [
+      "Savage Opress",
+      "Savage"
+    ],
+    "new_name": "Brute Force"
+  },
+  "Asajj_Ventress": {
+    "old_names": [
+      "Asajj Ventress",
+      "Ventress",
+      "Asajj"
+    ],
+    "new_name": "Dancer Dark"
+  },
+  "Quinlan_Vos": {
+    "old_names": [
+      "Quinlan Vos",
+      "Master Vos",
+      "Quinlan"
+    ],
+    "new_name": "Agent Trace"
+  },
+  "Wilhuff_Tarkin": {
+    "old_names": [
+      "Wilhuff Tarkin",
+      "Grand Moff Tarkin",
+      "Tarkin",
+      "Wilhuff"
+    ],
+    "new_name": "Governor Stone"
+  },
+  "R2-D2": {
+    "old_names": [
+      "R2-D2",
+      "Artoo-Detoo",
+      "R2",
+      "ArtooDetoo",
+      "Artoo"
+    ],
+    "new_name": "Beep Boop"
+  },
+  "C-3PO": {
+    "old_names": [
+      "C-3PO",
+      "See-Threepio",
+      "3PO"
+    ],
+    "new_name": "Mr. Golden"
+  },
+  "Han_Solo": {
+    "old_names": [
+      "Han Solo",
+      "Han",
+      "Captain Solo"
+    ],
+    "new_name": "Space Cowboy"
+  },
+  "Leia_Skywalker_Organa_Solo": {
+    "old_names": [
+      "Leia Organa",
+      "Princess Leia",
+      "General Organa",
+      "Leia Skywalker",
+      "Leia"
+    ],
+    "new_name": "Princess Rebel"
+  },
+  "Padme_Amidala": {
+    "old_names": [
+      "Padmé Amidala",
+      "Queen Amidala",
+      "Padmé",
+      "Senator Amidala",
+      "Padme"
+    ],
+    "new_name": "Queen Heart"
+  },
+  "Bail_Prestor_Organa": {
+    "old_names": [
+      "Bail Organa",
+      "Bail Prestor Organa",
+      "Senator Organa",
+      "Bail"
+    ],
+    "new_name": "Senator Hope"
+  },
+  "Breha_Organa": {
+    "old_names": [
+      "Breha Organa",
+      "Queen Breha",
+      "Breha"
+    ],
+    "new_name": "Queen Grace"
+  },
+  "Luke_Skywalker": {
+    "old_names": [
+      "Luke Skywalker",
+      "Master Skywalker",
+      "Luke",
+      "Jedi Master Skywalker",
+      "Skywalker"
+    ],
+    "new_name": "Farm Boy"
+  },
+  "Anakin_Skywalker": {
+    "old_names": [
+      "Anakin Skywalker",
+      "Anakin",
+      "The Chosen One"
+    ],
+    "new_name": "Chosen One"
+  },
+  "Darth_Vader": {
+    "old_names": [
+      "Darth Vader",
+      "Lord Vader",
+      "Anakin Skywalker",
+      "The Dark Lord",
+      "Vader"
+    ],
+    "new_name": "Dark Lord"
+  },
+  "Rey_Skywalker": {
+    "old_names": [
+      "Rey Skywalker",
+      "Rey",
+      "The Last Jedi"
+    ],
+    "new_name": "Desert Rose"
+  },
+  "Kylo_Ren": {
+    "old_names": [
+      "Kylo Ren",
+      "Ben Solo",
+      "The Jedi Killer",
+      "Kylo",
+      "Ren"
+    ],
+    "new_name": "Torn Prince"
+  },
+  "Ben_Solo": {
+    "old_names": [
+      "Ben Solo",
+      "Kylo Ren",
+      "Ben",
+      "Solo"
+    ],
+    "new_name": "Redeemed Son"
+  },
+  "Ahsoka_Tano": {
+    "old_names": [
+      "Ahsoka Tano",
+      "Ahsoka",
+      "Fulcrum",
+      "Snips"
+    ],
+    "new_name": "White Wolf"
+  },
+  "Grogu": {
+    "old_names": [
+      "Grogu",
+      "The Child",
+      "Baby Yoda"
+    ],
+    "new_name": "Little Green"
+  },
+  "Din_Djarin": {
+    "old_names": [
+      "Din Djarin",
+      "The Mandalorian",
+      "Mando",
+      "Din",
+      "Grogu"
+    ],
+    "new_name": "Silver Armor"
+  }
+}
