@@ -10,6 +10,7 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from sentence_transformers import SentenceTransformer
 from typing import List, Dict, Any
 import numpy as np
+import time
 
 class KnowledgeBaseVectorizer:
     def __init__(self, model_name: str = "all-MiniLM-L6-v2"):
@@ -111,6 +112,7 @@ class KnowledgeBaseVectorizer:
 
 
 if __name__ == "__main__":
+    start = time.time()
     print("Инициализация векторного индекса...")
     vectorizer = KnowledgeBaseVectorizer(model_name="all-MiniLM-L6-v2")
 
@@ -126,9 +128,10 @@ if __name__ == "__main__":
     vectorizer.create_vector_index(chunks)
 
     print("Векторный индекс успешно создан!")
-    print(f"Модель: {MODEL_NAME}")
+    print(f"Модель: all-MiniLM-L6-v2")
     print(f"Размер эмбеддингов: {vectorizer.embedding_size}")
     print(f"Количество чанков: {len(chunks)}")
+    print(f"Затраченное время, {time.time() - start} с")
 
     print("\nТестовый поиск:")
     results = vectorizer.search_similar_chunks("сила джедай", n_results=3)
