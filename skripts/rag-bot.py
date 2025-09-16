@@ -33,12 +33,8 @@ DANGEROUS_KEYWORDS = [
 ]
 
 YANDEX_API_URL = "https://llm.api.cloud.yandex.net/foundationModels/v1/completion"
-# YANDEX_FOLDER_ID = os.environ.get('FOLDER_ID')
-# YANDEX_IAM_TOKEN = os.environ.get('IAM_TOKEN')
-
-YANDEX_FOLDER_ID = "b1g81moor15opsrq0m7q"
-YANDEX_IAM_TOKEN = "t1.9euelZqMnsiVko-WncbJjJvKlY_JjO3rnpWanI-PzpaTjpbMjZvKi5WSz8vl9Pd7dV45-e8EeGyp3fT3OyRcOfnvBHhsqc3n9euelZqbipSSnZ2alMqajJycjYySzO_8xeuelZqbipSSnZ2alMqajJycjYySzA.ap27xH8RgPGat-8C4eLz8hYnRToBpvOrURqPqyU7UhbCo01ZPdVb1-e12d-UoyuZlrUDOx_UChfjzOJb0MuLDw"
-
+YANDEX_FOLDER_ID = os.environ.get('FOLDER_ID')
+YANDEX_IAM_TOKEN = os.environ.get('IAM_TOKEN')
 
 class QueryRequest(BaseModel):
     query: str
